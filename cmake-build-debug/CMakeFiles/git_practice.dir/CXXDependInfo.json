@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/Users/chenzhiting/CLionProjects/git_practice/cmake-build-debug",
+	"dir-cur-src" : "/Users/chenzhiting/CLionProjects/git_practice",
+	"dir-top-bld" : "/Users/chenzhiting/CLionProjects/git_practice/cmake-build-debug",
+	"dir-top-src" : "/Users/chenzhiting/CLionProjects/git_practice",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/chenzhiting/CLionProjects/git_practice/cmake-build-debug/CMakeFiles/git_practice.dir"
+}
